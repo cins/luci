@@ -9,58 +9,58 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "Allow guests"
-msgstr ""
+msgstr "Misafir Kabul Et"
 
 msgid "Allow system users to reach their home directories via network shares"
-msgstr ""
+msgstr "Sistem kullanıcılarının ağ paylaşımı sayesinde kendi ev dizinlerine ulaşabilsin"
 
 msgid "Allowed users"
-msgstr ""
+msgstr "İzinli kullanıcılar"
 
 msgid "Create mask"
-msgstr ""
+msgstr "Maske oluştur"
 
 msgid "Description"
-msgstr ""
+msgstr "Açıklama"
 
 msgid "Directory mask"
-msgstr ""
+msgstr "Dizin maskesi"
 
 msgid "Edit Template"
-msgstr ""
+msgstr "Şablonu Düzenle"
 
 msgid "Edit the template that is used for generating the samba configuration."
-msgstr ""
+msgstr "Samba tarafından oluşturulan ayar şablonunu düzenle"
 
 msgid "General Settings"
-msgstr ""
+msgstr "Genel Ayarlar"
 
 msgid "Hostname"
-msgstr ""
+msgstr "Sunucu adı"
 
 msgid "Mask for new directories"
-msgstr ""
+msgstr "Yeni dizin maskesi"
 
 msgid "Mask for new files"
-msgstr ""
+msgstr "Yeni dosya maskesi"
 
 msgid "Name"
-msgstr ""
+msgstr "İsmi"
 
 msgid "Network Shares"
-msgstr ""
+msgstr "Ağ Paylaşımları"
 
 msgid "Path"
-msgstr ""
+msgstr "Yolu"
 
 msgid "Read-only"
-msgstr ""
+msgstr "Salt-Okunur"
 
 msgid "Share home-directories"
-msgstr ""
+msgstr "Ev dizini paylaşımı"
 
 msgid "Shared Directories"
-msgstr ""
+msgstr "Paylaşılmış Dizinler"
 
 msgid ""
 "This is the content of the file '/etc/samba/smb.conf.template' from which "
@@ -68,6 +68,9 @@ msgid ""
 "('|') should not be changed. They get their values from the 'General "
 "Settings' tab."
 msgstr ""
+"Bu dosya ('/etc/samba/smb.conf.template') içeriği sizin samba ayarlarınız "
+"tarafından oluşturuldu. Boru ('|') semböllerinin arasındaki değerler "
+"değiştirilmemelidir. Bu değerler 'Genel Ayarlar' sekmesinden atanırlar. "
 
 msgid "Workgroup"
-msgstr ""
+msgstr "Çalışma grubu"
