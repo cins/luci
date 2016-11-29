@@ -15,35 +15,35 @@ msgid "Attempts Before WAN Recovery"
 msgstr ""
 
 msgid "Auto"
-msgstr ""
+msgstr "Otomatik"
 
 msgid "Collecting data..."
-msgstr ""
+msgstr "Veri Toplanıyor"
 
 msgid ""
 "Configure rules for directing outbound traffic through specified WAN Uplinks."
 msgstr ""
 
 msgid "DNS Server(s)"
-msgstr ""
+msgstr "DNS Sunucu(lar)"
 
 msgid "Default Route"
-msgstr ""
+msgstr "Varsayılan Yol"
 
 msgid "Destination Address"
-msgstr ""
+msgstr "Hedef Adres"
 
 msgid "Disable"
-msgstr ""
+msgstr "Pasif"
 
 msgid "Enable"
-msgstr ""
+msgstr "Aktif"
 
 msgid "Failing"
-msgstr ""
+msgstr "Başarısız"
 
 msgid "Failover Traffic Destination"
-msgstr ""
+msgstr "Hedef Trafik Başarısız"
 
 msgid "Health Monitor ICMP Host(s)"
 msgstr ""
@@ -71,13 +71,13 @@ msgid "Load Balancer(Performance)"
 msgstr ""
 
 msgid "Multi-WAN"
-msgstr ""
+msgstr "Çoklu-WAN"
 
 msgid "Multi-WAN Status"
-msgstr ""
+msgstr "Çoklu-WAN Durumu"
 
 msgid "Multi-WAN Traffic Rules"
-msgstr ""
+msgstr "Çoklu-WAN Trafik Kuralları"
 
 msgid ""
 "Multi-WAN allows for the use of multiple uplinks for load balancing and "
@@ -85,31 +85,31 @@ msgid ""
 msgstr ""
 
 msgid "None"
-msgstr ""
+msgstr "Yok"
 
 msgid "OK"
-msgstr ""
+msgstr "Tamam"
 
 msgid "Ports"
-msgstr ""
+msgstr "Portlar"
 
 msgid "Protocol"
-msgstr ""
+msgstr "Protokol"
 
 msgid "Recovering"
-msgstr ""
+msgstr "Kurtarılıyor"
 
 msgid "Source Address"
-msgstr ""
+msgstr "Kaynak Adres"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Bilinmiyor"
 
 msgid "WAN Interfaces"
-msgstr ""
+msgstr "WAN Arabirimleri"
 
 msgid "WAN Uplink"
-msgstr ""
+msgstr "WAN Giden"
 
 msgid "all"
-msgstr ""
+msgstr "hepsi"
